@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>UNIVIA – Matching (demo)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">UNIVIA</div>
+    <div class="controls">
+      <input id="studentId" placeholder="Student ID" />
+      <input id="apiKey" placeholder="OpenAI API Key (optionnel)" type="password" />
+      <button id="startBtn">Start</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="triplet" class="columns">
+      <!-- 3 colonnes injectées par JS -->
+    </section>
+
+    <section class="actions">
+      <button id="refreshState" class="ghost">Rafraîchir l’état</button>
+      <button id="showRanking" class="primary">Afficher le classement</button>
+    </section>
+
+    <section id="ranking" class="ranking hidden">
+      <h2>Classement</h2>
+      <ol id="rankingList"></ol>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>Demo locale – backend: <code id="apiBase"></code></small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

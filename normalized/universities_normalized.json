@@ -1,0 +1,338 @@
+{
+  "uni_3dc75a0a182f": {
+    "raw_hash": "sha256:8b173c37cacf9b8b40f84aa745bc12ff614394fe3c7f791484161242012feb8b",
+    "normalized": {
+      "id": "glasgow_school_of_art",
+      "country": "GB",
+      "city": "Glasgow",
+      "institution_type": "school",
+      "public_private": null,
+      "offer": {
+        "majors": [
+          "design",
+          "architecture",
+          "fine_art",
+          "modelling",
+          "vr"
+        ],
+        "teaching_languages": [
+          "en"
+        ],
+        "duration_years": 4,
+        "student_staff_ratio": null,
+        "accreditations": [],
+        "bridge_programs": []
+      },
+      "admissions": {
+        "requires_portfolio": true,
+        "english_min": {
+          "ielts_overall": 6.5
+        },
+        "application_system": "UCAS",
+        "deadline": "2026-01-14"
+      },
+      "fees": {
+        "tuition": {
+          "amount": 24350,
+          "currency": "GBP"
+        },
+        "other_fees": {
+          "amount": 306,
+          "currency": "EUR"
+        }
+      },
+      "campus": {
+        "setting": "urban",
+        "pmr_ok": true,
+        "airports": [
+          "Glasgow Airport"
+        ]
+      },
+      "results": {
+        "rank_uk": 5,
+        "salary_median_gbp": 23000
+      }
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:03:41Z",
+      "model": "gpt-4o-mini"
+    }
+  },
+  "uni_ab8bb6bae3fd": {
+    "raw_hash": "sha256:63d6b7b15b506fe538a77bdb17b089027e592e3a1dbbdd5db10360363662eea8",
+    "normalized": {
+      "id": "The Robert Gordon University",
+      "country": "GB",
+      "city": "Aberdeen",
+      "institution_type": "university",
+      "public_private": null,
+      "offer": {
+        "majors": [
+          "ingenierie",
+          "architecture",
+          "informatique",
+          "sciences_de_la_vie",
+          "creation",
+          "sante",
+          "social",
+          "business"
+        ],
+        "teaching_languages": [
+          "en"
+        ],
+        "duration_years": 6,
+        "student_staff_ratio": null,
+        "accreditations": [],
+        "bridge_programs": []
+      },
+      "admissions": {
+        "requires_portfolio": true,
+        "english_min": {
+          "ielts_overall": 6.5
+        },
+        "application_system": "UCAS",
+        "deadline": "2026-01-14"
+      },
+      "fees": {
+        "tuition": {
+          "amount": 18300,
+          "currency": "GBP"
+        },
+        "other_fees": {
+          "amount": 306,
+          "currency": "EUR"
+        }
+      },
+      "campus": {
+        "setting": "urban",
+        "pmr_ok": false,
+        "airports": []
+      },
+      "results": {
+        "rank_uk": 26,
+        "salary_median_gbp": 26500
+      }
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:03:49Z",
+      "model": "gpt-4o-mini"
+    }
+  },
+  "uni_23e235d916ad": {
+    "raw_hash": "sha256:1463cafc97347a9520c5577284b3c5c8b9fc08b7cc8f0a90c6f60eccf0d27e5e",
+    "normalized": {
+      "id": "Birmingham City University",
+      "country": "GB",
+      "city": "Birmingham",
+      "institution_type": "university",
+      "public_private": null,
+      "offer": {
+        "majors": [
+          "finance",
+          "theatre",
+          "architecture",
+          "art",
+          "design",
+          "management",
+          "business",
+          "informatique",
+          "engineering",
+          "english",
+          "fashion",
+          "video_games",
+          "health",
+          "law",
+          "marketing",
+          "jewelry",
+          "journalism",
+          "music",
+          "nursing",
+          "psychology",
+          "sociology",
+          "criminology",
+          "sport",
+          "life_sciences"
+        ],
+        "teaching_languages": [
+          "en"
+        ],
+        "duration_years": 3,
+        "student_staff_ratio": 17.8,
+        "accreditations": [],
+        "bridge_programs": [
+          "year_0",
+          "exchange_programs"
+        ]
+      },
+      "admissions": {
+        "requires_portfolio": true,
+        "english_min": {
+          "ielts_overall": 6
+        },
+        "application_system": "UCAS",
+        "deadline": "2026-01-29"
+      },
+      "fees": {
+        "tuition": {
+          "amount": 18570,
+          "currency": "GBP"
+        },
+        "other_fees": {
+          "amount": 306,
+          "currency": "EUR"
+        }
+      },
+      "campus": {
+        "setting": "urban",
+        "pmr_ok": true,
+        "airports": [
+          "international_airport_45_minutes_away"
+        ]
+      },
+      "results": {
+        "rank_uk": null,
+        "salary_median_gbp": 24000
+      }
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:04:01Z",
+      "model": "gpt-4o-mini"
+    }
+  },
+  "uni_e25f8efa20db": {
+    "raw_hash": "sha256:92189bfc942195344d874f5a680053a623f4b1b31b476376e0ecc96034ac6588",
+    "normalized": {
+      "id": "cardiff_university",
+      "country": "GB",
+      "city": "Cardiff",
+      "institution_type": "university",
+      "public_private": "public",
+      "offer": {
+        "majors": [
+          "architecture",
+          "finance",
+          "computer_science",
+          "law",
+          "engineering",
+          "physics",
+          "maths",
+          "chemistry",
+          "biology",
+          "health",
+          "international_relations",
+          "journalism",
+          "history",
+          "theology",
+          "literature"
+        ],
+        "teaching_languages": [
+          "en"
+        ],
+        "duration_years": 3,
+        "student_staff_ratio": null,
+        "accreditations": [],
+        "bridge_programs": [
+          "year_0"
+        ]
+      },
+      "admissions": {
+        "requires_portfolio": true,
+        "english_min": {
+          "ielts_overall": 6.5
+        },
+        "application_system": "UCAS",
+        "deadline": "2026-01-14"
+      },
+      "fees": {
+        "tuition": {
+          "amount": 29450,
+          "currency": "GBP"
+        },
+        "other_fees": null
+      },
+      "campus": {
+        "setting": "urban",
+        "pmr_ok": true,
+        "airports": [
+          "international_airport_1h30"
+        ]
+      },
+      "results": {
+        "rank_uk": 12,
+        "salary_median_gbp": 28000
+      }
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:04:15Z",
+      "model": "gpt-4o-mini"
+    }
+  },
+  "uni_67f986ba68fa": {
+    "raw_hash": "sha256:9cef4a495bc954069843ea756f6e36a4d6825c6788e1a2d53bc608b3e91871f0",
+    "normalized": {
+      "id": "University of East London",
+      "country": "GB",
+      "city": "Londres",
+      "institution_type": "university",
+      "public_private": "public",
+      "offer": {
+        "majors": [
+          "architecture_et_design",
+          "biosciences",
+          "informatique_et_ai",
+          "ingenierie",
+          "business",
+          "droit",
+          "education",
+          "sante",
+          "sport_et_bioscience",
+          "psychologie",
+          "sciences_sociales",
+          "arts_et_industries_digitale",
+          "media",
+          "arts"
+        ],
+        "teaching_languages": [
+          "en"
+        ],
+        "duration_years": 3,
+        "student_staff_ratio": null,
+        "accreditations": [],
+        "bridge_programs": [
+          "foundation_year"
+        ]
+      },
+      "admissions": {
+        "requires_portfolio": true,
+        "english_min": {
+          "ielts_overall": 5.5
+        },
+        "application_system": "UCAS",
+        "deadline": "2026-01-29"
+      },
+      "fees": {
+        "tuition": {
+          "amount": 15560,
+          "currency": "GBP"
+        },
+        "other_fees": {
+          "amount": 306,
+          "currency": "EUR"
+        }
+      },
+      "campus": {
+        "setting": "urban",
+        "pmr_ok": true,
+        "airports": []
+      },
+      "results": {
+        "rank_uk": null,
+        "salary_median_gbp": null
+      }
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:04:24Z",
+      "model": "gpt-4o-mini"
+    }
+  }
+}

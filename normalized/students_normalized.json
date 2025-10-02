@@ -1,0 +1,52 @@
+{
+  "stu_demo": {
+    "raw_hash": "sha256:a41d7edc8c2a17eebc52177252acaff21845a43ee9ab9457732697bb190122e3",
+    "normalized": {
+      "id": "stu_demo",
+      "citizenships": [
+        "FR"
+      ],
+      "residence_country": "FR",
+      "academics": {
+        "track": "bac_general",
+        "year_level_fr": "terminale",
+        "grades": {
+          "arts_plastiques": 17.0,
+          "maths": 15.0
+        },
+        "english": {
+          "evidence": "IELTS",
+          "score": 6.5,
+          "valid_to": "2027-06-01"
+        }
+      },
+      "preferences": {
+        "campus_setting": "urban",
+        "values": [
+          "innovation",
+          "international"
+        ],
+        "domains_priorities": [],
+        "countries_targets": []
+      },
+      "constraints": {
+        "pmr": false,
+        "visa_flex": true
+      },
+      "budget": {
+        "annual_total": {
+          "amount": 42000,
+          "currency": "EUR"
+        }
+      },
+      "languages": [
+        "en",
+        "fr"
+      ]
+    },
+    "meta": {
+      "updated_at": "2025-10-02T13:03:33Z",
+      "model": "gpt-4o-mini"
+    }
+  }
+}
